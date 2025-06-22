@@ -34,3 +34,15 @@ Subha uth kar college gaya. Wahan doston se mila. Ghar wapas aaya.
 Trigram:
 Subha jaldi uth kar nashta kiya. Uske baad college gaya aur doston se mila.
 ```
+
+## Usage
+Run the notebook to:
+- Load and tokenize the corpus
+- Train unigram, bigram, and trigram models
+- Generate sentences using each model
+- Optionally evaluate backward or bidirectional bigram models
+
+## Dependencies
+- Python 3.6+
+- NLTK
+- NumPy (optional)
